@@ -74,9 +74,13 @@ In it you will find an entry for each of your robots, starting with the serial i
 
 The order of the data fields may be different, that is okay.
 
-For the usage in Node-RED, or to be more precise to configure your Vector, you need the robot name, the IP adress (please notice that the actual IP adress of your robot may be another one),  the GUID (called "bearer token" in the config node) and the cert path.
+For the usage in Node-RED, or to be more precise to configure your Vector, you need the robot name, the IP adress (please notice that the actual IP adress of your robot may be another one),  the GUID (called "bearer token" in the config node) and the cert path. it took me some kind to find out what exactly is what and goes where, so I want to spare you the challenge:
 
-**[to be continued]**
+![Node Configuration](R:\git\node-red-contrib-vector-robot\gitimg\configure_node.jpg)
+
+That's it for configuration (for now), you can now user the Vectort nodes with the configured Vector Configuration node.
+
+More to come.
 
 ### Below is the original text from the project I forked fom dastultz:
 
