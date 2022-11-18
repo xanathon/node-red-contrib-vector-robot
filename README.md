@@ -64,7 +64,7 @@ Where the 8 zeros of course in reality are only placeholders for a hexdecimal co
 
 Also there is a file called
 
-sdk_config.ini
+`sdk_config.ini`
 
 In it you will find an entry for each of your robots, starting with the serial in brackets and then other information in the following format:
 
