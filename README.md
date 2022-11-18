@@ -2,13 +2,19 @@
 
 ## A Node-Red Contribution for the Anki Vector Robot
 
-This is a fork by the original Node-RED contribution by dastultz. I forked it to try to get it to run on a more recent version of Node-RED and to remove some errors from the original code. But anyway: Thanks to dastultz for creating this and sparing me a lot of work on the basics.
+This is a fork by the original [Node-RED](https://nodered.org) contribution by dastultz (Node-RED is a graphical user interface to create workflows, follow the link for details). I forked it to try to get it to run on a more recent version of Node-RED and to remove some errors from the original code. But anyway: Thanks to dastultz for creating this and sparing me a lot of work on the basics.
 
 **it has to be noted that I am quite new to Node-RED so not everything I do here may work - or it may break something. You have been warned. Use at your own risk. :) Backup your Node-RED.**
 
 Prerequisite: **You will need to have your Vector (or Vectors) already authenticated with the Python SDK so you have retrieved the cert and tokens on the computer you want to use this!** (or you can copy the cert and token files manually from another computer).
 
-Installation: To install this from github you have (for now) to download the code as zip, unzip it and rename it from,
+You want an example what can be done with this? Here:
+
+In my first test I was able to get a carbon dioxide reading from one of my Netatmo sensors and if it is above 900 ppm, Vector tells me so, so I can let fresh air in. The possibilities are endless (Caveat: there seem to be connection timing problems, see at the end of this readme. Another caveat: one of the libraries is reported as outdated, I have to update it to a newer one).
+
+## Installation into Node-RED
+
+To install this from github you have (for now) to download the code as zip, unzip it and rename it from,
 
 `node-red-contrib-vector-robot-master`
 
