@@ -32,7 +32,11 @@ on Linux, or
 
 on Windows (unfortunately I cannot tell you where this is on Mac OS, since I do not own a Mac).
 
-after that you have to open a console cd to that folder and issue the following command:
+after that you have to open a console cd to that folder, so for example 
+
+`/home/username/.node-red/node_modules/node-red-contrib-vector-robot`
+
+and issue the following command:
 
 `npm install`
 
