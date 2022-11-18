@@ -80,7 +80,7 @@ For the usage in Node-RED, or to be more precise to configure your Vector, you n
 
 That's it for configuration (for now), you can now user the Vectort nodes with the configured Vector Configuration node.
 
-More to come (espacially more detailed explanations on using this).
+More to come (especially more detailed explanations on using this).
 
 ### Below is the original text from the project I forked fom dastultz:
 
