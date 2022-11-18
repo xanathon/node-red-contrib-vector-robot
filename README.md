@@ -62,11 +62,15 @@ sdk_config.ini
 
 In it you will find an entry for each of your robots, starting with the serial in brackets and then other information in the following format:
 
-`[00000000]
-cert = C:\Users\admin\.anki_vector\Vector-R2D2-00000000.cert
-ip = 192.168.178.56
-name = Vector-R2D2
-guid = abcdefXYZaBcDE21fZkvgG==`
+`[00000000]`
+
+`cert = C:\Users\admin\.anki_vector\Vector-R2D2-00000000.cert`
+
+`ip = 192.168.178.56`
+
+`name = Vector-R2D2`
+
+`guid = abcdefXYZaBcDE21fZkvgG==`
 
 The order of the data fields may be different, that is okay.
 
