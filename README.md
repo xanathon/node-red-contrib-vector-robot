@@ -1,6 +1,6 @@
 # node-red-contrib-vector-robot
 
-## A Node-Red SDK for the Anki Vector Robot
+## A Node-Red Contribution for the Anki Vector Robot
 
 This is a fork by the original Node-RED contribution by dastultz. I forked it to try to get it to run on a more recent version of Node-RED and to remove some errors from the original code. But anyway: Thanks to dastultz for creating this and sparing me a lot of work on the basics.
 
