@@ -1,5 +1,7 @@
 # node-red-contrib-vector-robot
 
+# Important! Does not work at the moment. Do not download. I'm working on it!
+
 ## A Node-Red Contribution for the Anki Vector Robot
 
 This is a fork of the original [Node-RED](https://nodered.org) contribution by dastultz (Node-RED is node.js-based a graphical user interface to create workflows, follow the link for details). I forked it to try to get it to run on a more recent version of Node-RED and to remove some errors from the original code. But anyway: Thanks to dastultz for creating this and sparing me a lot of work on the basics.
