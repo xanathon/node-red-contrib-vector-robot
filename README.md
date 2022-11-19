@@ -90,7 +90,7 @@ For the usage in Node-RED, or to be more precise to configure your Vector, you n
 
 That's it for configuration (for now), you can now use the Vector nodes with the configured Vector Configuration node.
 
-###Nodes
+## Nodes
 
 Here are the nodes available:
 
