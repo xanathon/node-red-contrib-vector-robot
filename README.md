@@ -88,7 +88,13 @@ For the usage in Node-RED, or to be more precise to configure your Vector, you n
 
 <img src="/gitimg/configure_node.jpg" width="500" />
 
-That's it for configuration (for now), you can now user the Vectort nodes with the configured Vector Configuration node.
+That's it for configuration (for now), you can now use the Vector nodes with the configured Vector Configuration node.
+
+###Nodes
+
+Here are the nodes available:
+
+<img src="/gitimg/AnkiVectorNodes.jpg" />
 
 More to come (especially more detailed explanations on using this).
 
