@@ -1,18 +1,19 @@
 {
   "name": "node-red-contrib-vector-robot",
-  "version": "0.1.0",
-  "description": "Node-Red SDK for the Anki/DDL Vector Robot",
+  "version": "0.1.1",
+  "description": "Node-Red Contribution for the Anki Vector Robot",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dastultz/node-red-contrib-vector-robot.git"
+    "url": "git+https://github.com/xanathon/node-red-contrib-vector-robot.git"
   },
   "keywords": [
     "node-red",
     "vector",
+	"Anki Vector",
     "robot"
   ],
   "node-red": {
@@ -29,12 +30,12 @@
       "drive-off-charger": "lib/nodes/drive-off-charger/drive-off-charger.js"
     }
   },
-  "author": "Daryl Stultz",
+  "author": "Xanathon",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/dastultz/node-red-contrib-vector-robot/issues"
+    "url": "https://github.com/xanathon/node-red-contrib-vector-robot/issues"
   },
-  "homepage": "https://github.com/dastultz/node-red-contrib-vector-robot#readme",
+  "homepage": "https://github.com/xanathon/node-red-contrib-vector-robot#readme",
   "dependencies": {
     "@grpc/proto-loader": "^0.5.3",
     "google-proto-files": "^1.1.2",
