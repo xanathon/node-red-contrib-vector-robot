@@ -1,7 +1,5 @@
 # node-red-contrib-vector-robot
 
-# Important! Does not work at the moment. Do not download. I'm working on it!
-
 ## A Node-Red Contribution for the Anki Vector Robot
 
 This is a fork of the original [Node-RED](https://nodered.org) contribution by dastultz (Node-RED is node.js-based a graphical user interface to create workflows, follow the link for details). I forked it to try to get it to run on a more recent version of Node-RED and to remove some errors from the original code. But anyway: Thanks to dastultz for creating this and sparing me a lot of work on the basics.
@@ -15,6 +13,8 @@ You want an example what can be done with this? Here:
 In my first test I was able to get a carbon dioxide reading from one of my Netatmo sensors and if it is above 900 ppm, Vector tells me so, so I can let fresh air in. The possibilities are endless (Caveat: there seem to be connection timing problems, see at the end of this readme. Another caveat: one of the libraries is reported as outdated, I have to update it to a newer one).
 
 ## Installation into Node-RED
+
+Remark: There seem to be problems with reinstall that I encounter after changing stuff and try to reinstall. Wit initial installation you should be fine, but reinstallations may be problematic. I am wolrking on trying to resolve this.
 
 To install this from github you have (for now) to download the code as zip, unzip it and rename it from,
 
