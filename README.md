@@ -14,7 +14,7 @@ In my first test I was able to get a carbon dioxide reading from one of my Netat
 
 ## Installation into Node-RED
 
-**Remark:** There seem to be problems with reinstall that I encounter after changing stuff and try to reinstall. Wit initial installation you should be fine, but reinstallations may be problematic. I am wolrking on trying to resolve this.
+**Remark:** There seem to be problems with reinstall that I encounter after changing stuff and try to reinstall. With initial installation you should be fine, but reinstallations may be problematic. I am working on trying to resolve this.
 
 To install this from github you have (for now) to download the code as zip, unzip it and rename it from,
 
